@@ -1,1 +1,1 @@
-8 % 2
+"ingrese un númer

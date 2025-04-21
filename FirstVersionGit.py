@@ -19,14 +19,12 @@
 # F strings, concatenar un dato
 
 
-dato = 0
+#capturar un dato desde consola
 
+dato = 2
+if(dato == 2):
+    print("se ejecuto el condicional")
+else:
+    print("no se ejecuto el condicional")
 
-
-
-
-
-
-
-
-#print(dato)
+# esta es la nueva version del codigo
