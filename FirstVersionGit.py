@@ -10,7 +10,7 @@
 
 #declaracion de variable
 
-dato = input("ingrese un dato")
+#ato = input("ingrese un dato")
 
 
 # operaciones simplificadas
@@ -18,17 +18,15 @@ dato = input("ingrese un dato")
 ## SIgnos  <  >
 # F strings, concatenar un dato
 
-while(dato < 10 ):
-    if( dato % 2 == 0):
-        print("el numero es par se descarrta como psrimo  " , dato)
-        print(dato)
-    else:
-        print("numero primo")
-        print(dato)
-    
-    dato += 1
+
+dato = 0
 
 
 
-print(dato)
+
+
+
+
+
+
 #print(dato)
