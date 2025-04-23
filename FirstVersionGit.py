@@ -10,21 +10,32 @@
 
 #declaracion de variable
 
-#ato = input("ingrese un dato")
+#Elsiguiente bloque recoje un dato por consola y lo imprimie
+#declaramos una funcion de x**2
+
+import math
 
 
-# operaciones simplificadas
-## dato %= 2
-## SIgnos  <  >
-# F strings, concatenar un dato
+def xCuadrado(x,y):
+    z =  x**y
+    print(f"Este es el resultado de la funcion {z}")
+    return z
+
+
+def area_circulo(r):
+    Result = math.pi * xCuadrado(r,2)
+    #Result = math.pi * r**2
+
+    print("Esta es el área del circulo ", Result)
+
+area_circulo(10)
+
+
 
 
 #capturar un dato desde consola
+#type
 
-dato = 2
-if(dato == 2):
-    print("se ejecuto el condicional")
-else:
-    print("no se ejecuto el condicional")
+
 
 # esta es la nueva version del codigo

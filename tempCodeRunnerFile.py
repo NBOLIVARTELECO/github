@@ -1,1 +1,1 @@
-"ingrese un númer
+xCuadrado(r,2)
